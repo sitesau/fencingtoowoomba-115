@@ -1,0 +1,22 @@
+{
+  "wheel_id": 883,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-115",
+  "project": "fencing-contractors-toowoomba-council-and-approvals-92ff1e70a46",
+  "parent_t1_ref": "fencingtoowoomba-157",
+  "node_role": "feeder",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba council and approvals",
+  "intended_url": "https://sitesau.github.io/fencingtoowoomba-115/",
+  "tier": "T2",
+  "writeback_nonce": "f3550e3671720963",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/fencing-contractors-toowoomba-quotes-explained-c12e766b77b8d07b/",
+      "anchor": "https://sites-e470-2.web.app/fencing-contractors-toowoomba-quotes-explained-c12e766b77b8d07b/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
